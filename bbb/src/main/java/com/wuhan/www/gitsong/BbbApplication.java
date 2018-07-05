@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BbbApplication {
 	// aaa
-	// bb
+	// bb水电费水电费水电费
 	public static void main(String[] args) {
 		SpringApplication.run(BbbApplication.class, args);
 	}
